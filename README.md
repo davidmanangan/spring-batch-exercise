@@ -1,4 +1,6 @@
-## CSV Coding Challenge - Completed by David Manangan
+## Spring Batch Exercise
+
+A practice project that uses Spring Batch
 
 # Objective
 
